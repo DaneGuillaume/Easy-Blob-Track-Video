@@ -19,6 +19,8 @@ Voici la section **Structure** complète au format Markdown, combinant l'intro e
 
 ### Outputs
 
+<img width="3610" height="1279" alt="layer" src="https://github.com/user-attachments/assets/318f1da3-4325-47bc-914c-c1688efbb9cc" />
+
 | TOP Output | Connector Name | Description & Use Case |
 | :--- | :--- | :--- |
 | **Output 1** | `dot` | **Center Points**: Generates points at the centroid of each detected blob. |
