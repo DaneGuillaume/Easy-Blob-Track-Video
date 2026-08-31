@@ -28,3 +28,9 @@ Voici la section **Structure** complète au format Markdown, combinant l'intro e
 | **Output 3** | `mask` | **B&W Mask**: Binary matte (white = blob, black = background). Used for keying, clipping, or applying targeted shaders. |
 | **Output 4** | `data` | **Data Texture (TOP-as-Data)**: Displays the blob ID as an overlay on the image (e.g., 1434). |
 | **Output 5** | `video` | **Video Feed / Pass-through**: Passes the original or pre-processed video stream through for live visual monitoring and overlay alignment. |
+
+### 👏 Credits & Acknowledgments
+
+* **Developer**: Created by [Dane_909](https://github.com/DaneGuillaume)
+* **TouchDesigner Version**: Developed and tested on **TouchDesigner 2025.33070**
+* **Special Thanks**: A big thank you to [Dean Cheesman](https://www.youtube.com/@DeanCheesman) for his incredible tutorials and resources on TouchDesigner, which greatly inspired and helped shape this component.
