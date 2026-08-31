@@ -12,10 +12,10 @@ Voici la section **Structure** complète au format Markdown, combinant l'intro e
 
 ### Inputs
 
-| Input Connector | Type | Description |
+| Input Connector | Connector Name | Description |
 | :--- | :--- | :--- |
-| **Input 1** | `TOP` | Raw video source or live camera feed to analyze. |
-| **Input 2** | `TOP` | Background input directly from the Blob Track TOP (used for background subtraction). |
+| **Input 1** | `video` | Raw video source or live camera feed to analyze. |
+| **Input 2** | `background` | Background input directly from the Blob Track TOP (used for background subtraction). |
 
 ### Outputs
 
