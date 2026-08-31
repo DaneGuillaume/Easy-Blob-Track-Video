@@ -29,6 +29,11 @@ Voici la section **Structure** complète au format Markdown, combinant l'intro e
 | **Output 4** | `data` | **Data Texture (TOP-as-Data)**: Displays the blob ID as an overlay on the image (e.g., 1434). |
 | **Output 5** | `video` | **Video Feed / Pass-through**: Passes the original or pre-processed video stream through for live visual monitoring and overlay alignment. |
 
+### 📸 Showcase & Community Projects
+
+* 🎬 [Easy Blob Track Project #1 on Instagram](https://www.instagram.com/p/Dclj_XzsScp/)
+* 🎬 [Easy Blob Track Project #2 on Instagram](https://www.instagram.com/p/DcoS2MEshtB/)
+
 ### 👏 Credits & Acknowledgments
 
 * **Developer**: Created by [Dane_909](https://github.com/DaneGuillaume)
